@@ -17,7 +17,7 @@ This repository currently contains:
   - `src/main/resources/config.yml`
   - `src/main/resources/spleef_maps.yml`
 
-The project appears to be in active development, with map/game management features being scaffolded.
+The project is in active development, with map/game management features being scaffolded.
 
 ## Project Structure
 
@@ -77,9 +77,3 @@ Admin-related subcommands are represented by classes in:
 ## Notes
 
 - This README is intentionally brief and reflects the current repository layout.
-- As gameplay logic is completed, you can expand this file with:
-  - full command usage
-  - permissions
-  - game lifecycle/state flow
-  - configuration reference
-  - map setup guide
