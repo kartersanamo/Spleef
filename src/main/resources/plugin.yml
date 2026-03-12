@@ -1,0 +1,4 @@
+name: Spleef
+version: '1.0.0'
+main: com.kartersanamo.spleef.Spleef
+api-version: '1.21'
